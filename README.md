@@ -1,1 +1,1 @@
-# Zombie shoooter project
+# Zombie shooter project
